@@ -1,0 +1,11 @@
+{
+    "description": "My YouTube blog bot",
+    "domain": "is-a.dev",
+    "subdomain": "ahmadbot",
+    "owner": {
+        "username": "Ahmadaz3241"
+    },
+    "record": {
+        "CNAME": "ahmadaz3241.github.io"
+    }
+}
